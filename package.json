@@ -1,0 +1,23 @@
+{
+  "name": "mofron-event-fadelink",
+  "version": "0.0.1",
+  "description": "fade-out link event for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-event-fadelink.git"
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-event-fadelink/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-event-fadelink#readme"
+}
